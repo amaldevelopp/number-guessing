@@ -8,10 +8,5 @@ Features:
 - Provides clear feedback on each guess
 - Simple and easy-to-understand codebase
 
-Usage:
-1. Clone the repository to your local machine
-2. Run the `number_guessing_game.py` script
-3. Follow the on-screen instructions to play the game
-
 Contributions:
 Contributions to this project are welcome! If you have any suggestions for improvements or would like to add new features, feel free to create a pull request.
